@@ -37,6 +37,21 @@ This repository contains a complete accounting workflow, including journal entri
 
 ---
 
+---
+![picture](screen/trail.png)
+
+---
+
+---
+![picture](screen/Income_statement.png)
+
+---
+
+---
+![picture](screen/bl-sheet.png)
+
+---
+
 ## 🛠️ Problem Solved by This Project
 
 - Converts **raw accounting transactions** into **structured financial reports**.  

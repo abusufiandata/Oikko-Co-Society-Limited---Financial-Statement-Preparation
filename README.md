@@ -21,6 +21,11 @@ This repository contains a complete accounting workflow, including journal entri
 8. **Balance Sheet:** “As At” format; add Net Income to Equity; ensure Assets = Liabilities + Equity.
 9. **Validation:** Cross-check statements for consistency and linking.
 
+---
+![picture](screen/chart_of_accounts.png)
+
+---
+
 
 ## ✅ What You Gain from This Project
 

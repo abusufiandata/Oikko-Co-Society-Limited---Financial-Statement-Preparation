@@ -1,5 +1,10 @@
 # Oikko-Co-Society-Limited---Financial-Statement-Preparation
-This repository contains a complete accounting workflow including journal entries, ledger setup, trial balance, income statement, and balance sheet. It demonstrates key accounting concepts such as COGS, tax adjustments, and linking financial statements in Excel. The workflow is structured for learning, analysis, and reporting purposes.
+This repository contains a complete accounting workflow, including journal entries, ledger setup, trial balance, income statement, and balance sheet. It demonstrates key accounting concepts such as COGS, tax adjustments, and linking financial statements in Excel. The workflow is structured for learning, analysis, and reporting purposes.
+
+---
+![picture](screen/requirementpng.png)
+
+---
 
 
 ### Accounting Workflow – Key Points
@@ -15,4 +20,24 @@ This repository contains a complete accounting workflow including journal entrie
 7. **Income Statement:** Sales − COGS = Gross Profit; Gross Profit − Expenses = Operating Income; − Tax = Net Income.
 8. **Balance Sheet:** “As At” format; add Net Income to Equity; ensure Assets = Liabilities + Equity.
 9. **Validation:** Cross-check statements for consistency and linking.
+
+
+## ✅ What You Gain from This Project
+
+- Hands-on practice in **full accounting cycle**: journal → ledger → trial balance → financial statements.  
+- Skills in **Excel automation** (PivotTables, Data Validation, VLOOKUP/XLOOKUP).  
+- Understanding of **COGS, tax adjustment, and profit calculation**.  
+- Ability to **link financial statements** (Income Statement ↔ Balance Sheet).  
+- A professional workflow to showcase as a **portfolio project** on GitHub.  
+
+---
+
+## 🛠️ Problem Solved by This Project
+
+- Converts **raw accounting transactions** into **structured financial reports**.  
+- Reduces **manual errors** by using Excel functions & automation.  
+- Helps **students or beginners** understand how journal entries flow into statements.  
+- Ensures accuracy with the rule: **Assets = Liabilities + Equity**.  
+- Bridges **accounting theory** with **Excel practice**.  
+
 
